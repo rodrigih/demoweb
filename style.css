@@ -1,0 +1,50 @@
+html
+{
+    font-family:Verdana sans-serif;
+}
+
+.topnav
+{
+    background-color: #253333;
+}
+
+nav.topnav a
+{
+    color: white;
+    font-size: x-large;
+}
+
+nav.topnav a:link 
+{
+    color: white;
+    text-decoration:none;
+}
+
+nav.topnav a:visited
+{
+    color:white;
+    text-decoration:none;
+}
+
+ul.topnav
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul.topnav li
+{
+    border-right: solid;
+    border-right-color: white;
+    display: inline;
+    padding: 20px;
+    //padding-right: 20px;
+    //padding-left: 20px;
+    margin:0px;
+}
+
+div.links
+{
+    text-align: center;
+}
